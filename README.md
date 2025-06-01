@@ -1,5 +1,7 @@
 # Remote-Reaper-Render
 
+This is a script that allow triggering any reaper project to render remotely from a dropbox or any cloud folder.
+
 Download and install python 2.7 from : https://www.python.org/ftp/python/2.7.14/python-2.7.14.amd64.msi
 
 Copy the .bat and .py files from github and put them in the C:\Python27 folder. 
